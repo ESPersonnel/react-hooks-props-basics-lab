@@ -17,7 +17,7 @@ function App() {
         color={user.color}
       />
       <About 
-        bio={user.bio}
+        isPublished={true}
       />
     </div>
   );
