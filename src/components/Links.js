@@ -1,6 +1,6 @@
 import React from "react";
 
-function Links(props) {
+function Links() {
     return (
       <div>
         <h3>Links</h3>
